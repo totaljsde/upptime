@@ -1,32 +1,39 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: greenbaum # Your GitHub username
 repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Greenbaum Mail
+    url: https://mail.greenbaum.cloud
+  - name: Greenbaum Auth
+    url: https://auth.greenbaum.cloud
+  - name: Greenbaum Meet
+    url: https://meet.greenbaum.cloud
+  - name: Nextcloud
+    url: https://next.greenbaum.cloud
+  - name: Wekan
+    url: https://wekan.greenbaum.institute
+  - name: HelpDesk
+    url: https://help.greenbaum.cloud
+  - name: Gitea
+    url: https://git.greenbaum.cloud
+  - name: Docker registry
+    url: https://hub.greenbaum.cloud
+  - name: Website Greenbaum Cloud
+    url: https://greenbaum.cloud
+  - name: Website Greenbaum Institute
+    url: https://greenbaum.institute
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: status.greenbaum.cloud
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Greenbaum Status
+  introTitle: "**Upptime** status of Greenbaum Services"
+  introMessage: This is the status page for Greenbaum Services which uses **real-time** data from our [GitHub repository](https://github.com/greenbaum/upptime). No server required — just GitHub Actions, Issues, and Pages. Powered by [Upptime](https://upptime.js.org).
   navbar:
     - title: Status
       href: /
