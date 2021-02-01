@@ -20,6 +20,8 @@ sites:
     url: https://git.greenbaum.cloud
   - name: Docker registry
     url: https://hub.greenbaum.cloud
+    expectedStatusCodes:
+      - 403
   - name: Website Greenbaum Cloud
     url: https://greenbaum.cloud
   - name: Website Greenbaum Institute
