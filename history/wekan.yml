@@ -1,7 +1,7 @@
 url: https://wekan.greenbaum.institute
-status: up
-code: 200
-responseTime: 709
-lastUpdated: 2021-02-07T13:39:57.174Z
+status: down
+code: 503
+responseTime: 526
+lastUpdated: 2021-02-07T13:53:07.067Z
 startTime: Mon Feb 01 2021 14:05:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
