@@ -1,7 +1,7 @@
 url: https://auth.greenbaum.cloud
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-02-08T17:39:22.435Z
+status: up
+code: 200
+responseTime: 1003
+lastUpdated: 2021-02-08T21:18:51.592Z
 startTime: Mon Feb 01 2021 14:05:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
