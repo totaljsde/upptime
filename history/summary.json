@@ -46,18 +46,20 @@
     "url": "https://meet.greenbaum.cloud",
     "icon": "https://favicons.githubusercontent.com/meet.greenbaum.cloud",
     "slug": "greenbaum-meet",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 945,
     "timeDay": 644,
     "timeWeek": 796,
     "timeMonth": 901,
     "timeYear": 945,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-02": 3
+    }
   },
   {
     "name": "Nextcloud",
@@ -82,19 +84,19 @@
     "url": "https://wekan.greenbaum.institute",
     "icon": "https://favicons.githubusercontent.com/wekan.greenbaum.institute",
     "slug": "wekan",
-    "status": "up",
-    "uptime": "98.54%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "98.54%",
-    "uptimeYear": "98.54%",
+    "status": "down",
+    "uptime": "98.53%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "98.53%",
+    "uptimeYear": "98.53%",
     "time": 2370,
     "timeDay": 3413,
     "timeWeek": 1268,
     "timeMonth": 2470,
     "timeYear": 2370,
     "dailyMinutesDown": {
-      "2021-03-02": 6,
+      "2021-03-02": 8,
       "2021-02-10": 13,
       "2021-02-07": 283,
       "2021-02-06": 218,
@@ -128,10 +130,10 @@
     "url": "https://git.greenbaum.cloud",
     "icon": "https://favicons.githubusercontent.com/git.greenbaum.cloud",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 921,
@@ -139,7 +141,9 @@
     "timeWeek": 760,
     "timeMonth": 887,
     "timeYear": 921,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-02": 1
+    }
   },
   {
     "name": "Docker registry",
@@ -166,9 +170,9 @@
     "url": "https://greenbaum.cloud",
     "icon": "https://favicons.githubusercontent.com/greenbaum.cloud",
     "slug": "website-greenbaum-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -177,16 +181,18 @@
     "timeWeek": 1315,
     "timeMonth": 1461,
     "timeYear": 1523,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-02": 0
+    }
   },
   {
     "name": "Website Greenbaum Institute",
     "url": "https://greenbaum.institute",
     "icon": "https://favicons.githubusercontent.com/greenbaum.institute",
     "slug": "website-greenbaum-institute",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.51%",
+    "uptimeDay": "99.50%",
     "uptimeWeek": "99.93%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
