@@ -1,7 +1,7 @@
 url: https://next.greenbaum.cloud
-status: up
-code: 200
-responseTime: 801
-lastUpdated: 2021-03-16T23:14:20.574Z
+status: down
+code: 503
+responseTime: 1141
+lastUpdated: 2021-03-17T15:26:15.653Z
 startTime: Mon Feb 01 2021 14:05:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
