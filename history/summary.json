@@ -173,7 +173,7 @@
     "url": "https://greenbaum.cloud",
     "icon": "https://favicons.githubusercontent.com/greenbaum.cloud",
     "slug": "website-greenbaum-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -181,7 +181,7 @@
     "uptimeYear": "99.87%",
     "time": 1477,
     "timeDay": 1265,
-    "timeWeek": 1510,
+    "timeWeek": 1488,
     "timeMonth": 1463,
     "timeYear": 1477,
     "dailyMinutesDown": {
