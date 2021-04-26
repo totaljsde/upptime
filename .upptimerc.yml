@@ -4,6 +4,8 @@ repo: upptime # Your GitHub repository name
 
 assignees:
   - teutat3s
+  - totaljsde
+  - mikebaumgart
 
 # Add your sites here
 sites:
@@ -31,7 +33,7 @@ status-website:
   cname: status.greenbaum.cloud
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://code.greenbaum.institute/api/download/342008001tf61b/?path=/public/logo.png&preview=1
   name: Greenbaum Status
   introTitle: "**Upptime** status of Greenbaum Services"
   introMessage: This is the status page for Greenbaum Services which uses **real-time** data from our [GitHub repository](https://github.com/greenbaum/upptime) - just using GitHub Actions, Issues, and Pages with [Upptime](https://upptime.js.org).
