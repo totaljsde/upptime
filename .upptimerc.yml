@@ -17,6 +17,8 @@ sites:
     url: https://meet.greenbaum.cloud
   - name: Nextcloud
     url: https://next.greenbaum.cloud
+  - name: Mattermost
+    url: https://chat.greenbaum.cloud
   - name: Wekan
     url: https://wekan.greenbaum.institute
   - name: HelpDesk
